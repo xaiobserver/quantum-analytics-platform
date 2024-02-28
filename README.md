@@ -14,3 +14,16 @@ The Quantum Analytics Platform is a comprehensive web-based analytics tool desig
 - Decision-makers
 ```
 
+### Technology Stack
+- **Frontend Technologies:**
+  - React for the user interface
+  - Redux for state management
+  - Styled Components for styling
+
+- **Backend Technologies:**
+  - Node.js and Express for backend development
+  - MongoDB for efficient data storage
+
+- **AI/Machine Learning Technologies:**
+  - TensorFlow.js for in-browser machine learning
+  - Scikit-learn for classical machine learning models
